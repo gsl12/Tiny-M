@@ -9,4 +9,4 @@ I used 20x20 profiles, MGN9 for XY and MGN12 for Z.
 
 Size: 150x150x150 mm
 
-![Image of Tiny M](https://github.com/gsl12/Tiny-M/blob/master/tiny-m-alpha.jpg)
+![Image of Tiny M](https://github.com/gsl12/Tiny-M/blob/master/pictures/tiny-m-alpha.jpg)
