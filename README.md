@@ -11,7 +11,12 @@ After checking all parts, i recognize, that i could build a converted Voron V0 w
 
 ### Hardware
 
-I used 20x20 profiles, MGN9 for XY and MGN12 for Z.
+    - alu profiles 2020 Nut 5 I-Typ
+    - MGN9 for XY
+    - MGN12 for Z
+    - hyperpixel 4.0 display
+    - SKR V1.1 with TMC2208 uart mode
+    - 24V everywhere
 
 ### Data
 Build volume: 150x150x150 mm
