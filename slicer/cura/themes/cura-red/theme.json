@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "name": "Voron Dark",
+        "inherits": "cura-dark"
+    },
+
+    "colors": {
+        "layerview_ghost": [32, 32, 32, 96],
+        "layerview_none": [255,  255,  255, 0],
+        "layerview_inset_0": [0, 102, 102, 255],
+        "layerview_inset_x": [83, 198, 140, 255],
+        "layerview_skin": [204, 0, 0, 255],
+        "layerview_support": [163, 124, 39, 255],
+        "layerview_skirt": [79, 55, 45, 255],
+        "layerview_infill": [255, 198, 26, 255],
+        "layerview_support_infill": [29, 164, 191, 255],
+        "layerview_move_combing": [35,  113,  217, 255],
+        "layerview_move_retraction": [130,  175,  217, 255],
+        "layerview_support_interface": [222, 84, 165, 255]
+    }
+}
