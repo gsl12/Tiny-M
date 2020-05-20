@@ -1,7 +1,9 @@
 # Tiny-M
 
 
-This is a Corona project. It is based on [Voron V0](https://github.com/VoronDesign/Voron-0) . 
+This is a Corona project.  
+It is based on [Voron V0](https://github.com/VoronDesign/Voron-0) .  
+As extruder i used [Voron Jetpack](https://github.com/VoronDesign/Jetpack-Extruder).
 
 ## Why the whole thing?
 
