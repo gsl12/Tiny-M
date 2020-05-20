@@ -1,8 +1,11 @@
-# Slicer Information
+## **Slicer Information**
+***
+### Start and End Gcode for specific slicer i used.
 
-## Start and End Gcode for specific slicer i used.
-
-### ------ CURA ---------
+#### CURA
+ 
+Copy the content from cura folder to your appdata cura folder.
+Under Windows for me it is "%appdata%\cura\4.6" .
 Values "material_klipper_pa" , "material_klipper_pa_smooth_time"  and "material_klipper_gcode_offset" 
 are only available with my CURA Klipper settings plugin.
 
