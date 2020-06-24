@@ -4,6 +4,7 @@
 This is a Corona project.  
 It is based on [Voron V0](https://github.com/VoronDesign/Voron-0) .  
 As extruder i used [Voron Jetpack](https://github.com/VoronDesign/Jetpack-Extruder).
+or my new [Nema17 Pocketwatch](https://github.com/gsl12/VoronUsers/tree/master/printer_mods/GSL12/pocketwatch_nema17)
 
 Source is available at [Tiny-M Onshape](https://cad.onshape.com/documents/d2a24a4147c3d522115f6ea5/w/d8f44be5c0a081fbf527e154/e/debb6c2779e27f86389232d5).
 
