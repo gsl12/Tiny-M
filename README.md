@@ -20,7 +20,7 @@ After checking all parts, i recognize, that i could build a converted Voron V0 w
     - MGN9 for XY
     - MGN12 for Z
     - hyperpixel 4.0 display
-    - SKR V1.1 with TMC2208 uart mode
+    - FYSETC Cheetah V1.1b (TMC2209) config here  or SKR Mini E3 with TMC2209
     - 24V everywhere
 
 ### Data
