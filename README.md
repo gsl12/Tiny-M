@@ -19,12 +19,17 @@ After checking all parts, i recognize, that i could build a converted Voron V0 w
     - alu profiles 2020 Nut 5 I-Typ
     - MGN9 for XY
     - MGN12 for Z
-    - hyperpixel 4.0 display
     - FYSETC Cheetah V1.1b (TMC2209) config here  or SKR Mini E3 with TMC2209
     - 24V everywhere
 
+### Used VoronUser mods
+
+Display [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
+
 ### Data
+
 Build volume: 150x150x150 mm
 
 ### Pictures
+
 ![Image of Tiny M](https://github.com/gsl12/Tiny-M/blob/master/pictures/tiny-m-alpha.jpg)
