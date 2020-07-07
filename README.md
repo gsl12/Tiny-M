@@ -30,6 +30,6 @@ Display [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/m
 
 Build volume: 150x150x150 mm
 
-### Pictures
-
-![Image of Tiny M](https://github.com/gsl12/Tiny-M/blob/master/pictures/tiny-m-alpha.jpg)
+# Images
+<img src="images/build_p1.jpg" width="800">
+<img src="images/build_p2.jpg" width="400"> <img src="images/build_p3.jpg" width="400">
