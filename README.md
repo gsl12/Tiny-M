@@ -8,6 +8,8 @@ or my new [Nema17 Pocketwatch](https://github.com/gsl12/VoronUsers/tree/master/p
 
 Source is available at [Tiny-M Onshape](https://cad.onshape.com/documents/d2a24a4147c3d522115f6ea5/w/d8f44be5c0a081fbf527e154/e/debb6c2779e27f86389232d5).
 
+This is my first project of this kind. Maybe something will be missing, is not well documented, or just messy. I apologize for that.
+
 ## Why the whole thing?
 
 I had many 3D printer parts in my pocket from my old no longer used printer. 
@@ -22,6 +24,13 @@ After checking all parts, i recognize, that i could build a converted Voron V0 w
     - FYSETC Cheetah V1.1b (TMC2209) config here  or SKR Mini E3 with TMC2209
     - 24V everywhere
 
+### BOM
+I'm working on a BOM at the moment. Onshape has this feature included, some parts are still missing and some parts(like printed part) are not excluded from the BOM in Onshape. Later i will put a excel sheet here.
+
+### Build Tips
+The outer diameter of the flanges from the pulleys for XY Joins will not fit.
+You will need to grind the flanges to fit.
+
 ### Used VoronUser mods
 
 Display [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
@@ -30,6 +39,7 @@ Display [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/m
 
 Build volume: 150x150x150 mm
 
+
 # Images
-<img src="images/build_p1.jpg" width="150">
-<img src="images/build_p2.jpg" width="150"> <img src="images/build_p3.jpg" width="150">
+<img src="images/build_p1.jpg" width="200">
+<img src="images/build_p2.jpg" width="200"> <img src="images/build_p3.jpg" width="200">
