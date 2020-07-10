@@ -28,8 +28,12 @@ After checking all parts, i recognize, that i could build a converted Voron V0 w
 I'm working on a BOM at the moment. Onshape has this feature included, some parts are still missing and some parts(like printed part) are not excluded from the BOM in Onshape. Later i will put a excel sheet here.
 
 ### Build Tips
-The outer diameter of the flanges from the pulleys for XY Joins will not fit.
-You will need to grind the flanges to fit.
+There are 2 versions of the XY-Joins.
+
+- V2 - use GT2 20T pulleys - No Set Screw Hub
+    - The outer diameter of the flanges from the pulleys for XY Joins will not fit.
+    - You will need to grind the flanges to fit.
+- V3 - use GT2 20T toothed idler and no M5 Nuts
 
 ### Used VoronUser mods
 
