@@ -25,7 +25,7 @@ After checking all parts, i recognize, that i could build a converted Voron V0 w
     - 24V everywhere
 
 ### BOM
-I'm working on a BOM at the moment. Onshape has this feature included, some parts are still missing and some parts(like printed part) are not excluded from the BOM in Onshape. Later i will put a excel sheet here.
+DRAFT BOM is available now. Thanks to CookieSN !
 
 ### Build Tips
 There are 2 versions of the XY-Joins.
