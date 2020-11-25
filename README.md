@@ -36,9 +36,11 @@ There are 2 versions of the XY-Joins.
 - V3 - use 2GT 20T toothed idler and no M5 Nuts
 
 ### User Mods
-There are several user mods in the usermods directory.
+There are several user mod STLs in the usermods directory.
 
-Display [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
+[schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
+
+[Xile Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
 
 ### Data
 
