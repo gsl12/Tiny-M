@@ -2,6 +2,8 @@
 
 <img src="images/build_p1.jpg" width="200">
 
+A compact printer with build volume: 150x150x150 mm
+
 This is a Corona project.  
 It is based on [Voron V0](https://github.com/VoronDesign/Voron-0) .  
 As extruder I used [Voron Jetpack](https://github.com/VoronDesign/Jetpack-Extruder).
@@ -20,10 +22,10 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 
 ### Hardware
 
-    - alu profiles 2020 Nut 5 I-Typ (6mm wide slot Misumi 2020 will work)
+    - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work)
     - MGN9H for XY
     - MGN12H for Z
-    - FYSETC Cheetah V1.1b (TMC2209) config here  or SKR Mini E3 with TMC2209
+    - FYSETC Cheetah V1.1b (TMC2209) or SKR Mini E3 with TMC2209
     - 24V everywhere
 
 ### BOM
@@ -43,10 +45,6 @@ There are several user mod STLs in the usermods directory.
 [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
 
 [Xile Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
-
-### Data
-
-Build volume: 150x150x150 mm
 
 ### Discord
 
