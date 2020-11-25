@@ -23,6 +23,7 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 ### Hardware
 
     - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work)
+    - Nema 17 stepper motors
     - MGN9H for XY
     - MGN12H for Z
     - FYSETC Cheetah V1.1b (TMC2209) or SKR Mini E3 with TMC2209
