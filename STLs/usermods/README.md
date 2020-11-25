@@ -8,5 +8,5 @@
 * LRS-150_Mount.STL : Mount for Meanwell power supply (Xile)
 * SKR_Mini_Mount.STL : Mount for SKR Mini (Xile)
 * Raspi_Mount.STL : Mount for Raspberry Pi (Xile)
-* Buck_Converter_Mount.STL : Mount for [https://smile.amazon.com/gp/product/B07N3QT628/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1](Buck converter) for Raspberry Pi 5V (Xile) 
+* Buck_Converter_Mount.STL : Mount for [Buck converter](https://smile.amazon.com/gp/product/B07N3QT628/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1]) for Raspberry Pi 5V (Xile) 
 
