@@ -35,13 +35,18 @@ There are 2 versions of the XY-Joins.
     - You will need to grind the flanges to fit.
 - V3 - use GT2 20T toothed idler and no M5 Nuts
 
-### Used VoronUser mods
+### User Mods
+There are several user mods in the usermods directory.
 
 Display [schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
 
 ### Data
 
 Build volume: 150x150x150 mm
+
+### Discord
+
+The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m-build channel where several Tiny-M builders hang out.
 
 
 # Images
