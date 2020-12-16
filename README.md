@@ -40,6 +40,8 @@ There are 2 versions of the XY-Joins.
     - You will need to grind the flanges to fit.
 - V3 - use 2GT 20T toothed idler and no M5 Nuts
 
+[Mark Hoy's Build Log](https://github.com/mark-hoy/tiny-m-build)
+
 ### User Mods
 There are several user mod STLs in the usermods directory.
 
