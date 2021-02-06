@@ -1,5 +1,7 @@
 ### User mods
 
+* tiny-m_tap_guide.stl : guide for tapping ends of 2020 extrusions (danielfmo)
+* tiny-m_drill_guide.stl: drill guide for blind joint acccess holes (danielfmo)
 * ab_drive_top_raised.STL : On some steppers the screws bottom out.  This thickens the plastic. (Xile)
 * Knob_Wrench.stl : Tool to turn the tensioning knobs (Xile)
 * Panel_Holder_1.STL : Panel holders keep panels from sagging - (Xile, modified from design by Anlin at Annex Engineering)
