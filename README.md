@@ -39,6 +39,12 @@ There are 2 versions of the XY-Joins.
     - The outer diameter of the flanges from the pulleys for XY Joins will not fit.
     - You will need to grind the flanges to fit.
 - V3 - use 2GT 20T toothed idler and no M5 Nuts
+- V4 - split into 3 parts
+    - removed one M5 screw for better alignment
+    - optimized belt path to use E3D idler (10mm high) or chinese (9mm high)
+    - some design changes
+    - more rigid
+
 
 [Mark Hoy's Build Log](https://github.com/mark-hoy/tiny-m-build)
 
