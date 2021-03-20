@@ -2,7 +2,7 @@
 
 The changes for a 190^3 build volume are fairly simple.   
 - All Extrusions need to be 40mm longer
-* 3	2020_I_typ_130mm
+   * 3	2020_I_typ_130mm
 * 9	2020_I_typ_260mm
 * 1	2020_I_typ_260mm
 * 4	2020_I_typ_300mm
