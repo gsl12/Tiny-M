@@ -24,8 +24,8 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 
     - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work)
     - Nema 17 stepper motors
-    - MGN9H for XY
-    - MGN12H for Z
+    - 3x 200mm MGN9H for XY
+    - 2x 200mm MGN12H for Z
     - FYSETC Cheetah V1.1b (TMC2209) or SKR Mini E3 with TMC2209
     - 24V everywhere
 
@@ -33,7 +33,7 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 DRAFT BOM is available now. Thanks to CookieSN !
 
 ### Build Tips
-There are 2 versions of the XY-Joins.
+There are 3 versions of the XY-Joins.
 
 - V2 - use 2GT 20T pulleys - No Set Screw Hub
     - The outer diameter of the flanges from the pulleys for XY Joins will not fit.
@@ -45,19 +45,23 @@ There are 2 versions of the XY-Joins.
     - some design changes
     - more rigid
 
-
-[Mark Hoy's Build Log](https://github.com/mark-hoy/tiny-m-build)
+[Mark Hoy's Excellent Build Log](https://github.com/mark-hoy/tiny-m-build)
 
 ### User Mods
 There are several user mod STLs in the usermods directory.
 
-[schlank voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
+[190^3 Mod which uses Prusa mini bed plates]()
 
-[Xile Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
+[schlank's voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
+
+[Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
+
+[Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
+
 
 ### Discord
 
-The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m-build channel where several Tiny-M builders hang out.
+The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where several Tiny-M builders hang out.
 
 
 # Images
