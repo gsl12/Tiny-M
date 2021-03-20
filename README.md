@@ -52,11 +52,11 @@ There are several user mod STLs in the usermods directory.
 
 [190^3 Mod which uses Prusa mini bed plates]()
 
-[schlank's voronuser mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
-
 [Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
 
 [Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
+
+[Schlank's Fysetc 12864 mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
 
 
 ### Discord
