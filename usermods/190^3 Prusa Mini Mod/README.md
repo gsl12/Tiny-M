@@ -1,11 +1,12 @@
 ### 190^3 Build volume which can use the Prusa Mini Bed Plate.
 
 The changes for a 190^3 build volume are fairly simple.   
-- All Extrusions need to be 40mm longer
+- All frame extrusions need to be 50mm longer
+   * 11x 2020 310mm  (note one more than normal Tiny-M.  This is used as a cross brace in the front to stiffen the frame)
+   * 4x	2020 350mm
+   * 2x	2020 300mm
+- All bed extrusions need to be 40 mm longer
    * 3x	2020 170mm
-   * 10x 2020 300mm
-   * 4x	2020 340mm
-   * 2x	2020 290mm
 - 3x 250mm MGN9H for XY (RobotDigg SUS 440C highly recommended) 
 - 2X 250mm MGN12H for Z
 - 255mm TR8x4 leadscrew
