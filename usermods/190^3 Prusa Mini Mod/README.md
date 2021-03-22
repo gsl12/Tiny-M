@@ -7,7 +7,8 @@ The changes for a 190^3 build volume are fairly simple.
    * 2x	2020 300mm
 - All bed extrusions need to be 40 mm longer
    * 3x	2020 170mm
-- 3x 250mm MGN9H for XY (RobotDigg SUS 440C highly recommended) 
+- 1X 250mm MGN12H for X (RobotDigg SUS 440C highly recommended) 
+- 2x 250mm MGN9H for Y 
 - 2X 250mm MGN12H for Z
 - 265mm TR8x4 leadscrew
 - Mic6 bed should be 190x190x6mm.  Template for drilling are in the STLs subdir here.
