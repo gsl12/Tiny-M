@@ -66,4 +66,12 @@ The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where sever
 
 # Images
 
+V4  
+
+<img src="images/cad_v4.jpg" width="400"> 
+
+old  
+
 <img src="images/build_p2.jpg" width="200"> <img src="images/build_p3.jpg" width="200">
+
+
