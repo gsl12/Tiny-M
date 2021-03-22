@@ -3,8 +3,7 @@
 The changes for a 190^3 build volume are fairly simple.   
 - All Extrusions need to be 40mm longer
    * 3x	2020 170mm
-   * 9x	2020 300mm
-   * 1x	2020 300mm
+   * 10x2020 300mm
    * 4x	2020 340mm
    * 2x	2020 290mm
 - 3x 250mm MGN9H for XY (RobotDigg SUS 440C highly recommended) 
