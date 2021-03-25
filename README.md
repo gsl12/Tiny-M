@@ -50,7 +50,7 @@ There are 3 versions of the XY-Joins.
 ### User Mods
 There are several user mod STLs in the usermods directory.
 
-[190^3 Mod which uses Prusa mini bed plates]()
+[190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
 
 [Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
 
