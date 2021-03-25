@@ -56,7 +56,7 @@ There are several user mod STLs in the usermods directory.
 
 [Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
 
-[5mm Dowel Pin Mod[(https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
+[5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
 
 [Schlank's Fysetc 12864 mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
 
