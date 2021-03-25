@@ -1,4 +1,5 @@
 ### 5MM Dowel Pin Mod
+- Ocho Camino
 This is a mod to use 5mm dowel pins instead of fasteners for the idlers to ride on.  It is based on the V4 gantry.
 
 #### RATIONALE
@@ -14,3 +15,4 @@ This mod has not been tested yet!
 You will probably need to drill out the holes in the parts with a 5mm drill bit.  The idler bearings and toothed idler should slide along the length of the pin.  If the pin is oversized (most dowel pins are), chuck it up in a drill and use 400 grit sandpaper to reduce the diameter.  You shouldn't need to remove more than 0.01mm so check as you go.   
 
 Press the pins into the parts while capturing the bearings/washers/idlers.  If you overcompress the part and bind the bearings, you may need to gently pry the assembly apart a tiny bit.  If the pin is loose, place some thin CA adhesive in the pin holes top and bottom.
+
