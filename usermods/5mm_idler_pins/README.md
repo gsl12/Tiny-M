@@ -10,7 +10,7 @@ It should prolong the life of the bearings and improve print quality.
 This mod has not been tested yet! 
 
 #### BOM
-  - 10x 5mmx32mm dowel pins.  [McMaster](https://www.mcmaster.com/91585A569/).  30mm pins may be substituted.
+  - 10x 5mmx32mm dowel pins.  [McMaster](https://www.mcmaster.com/91585A569/).  30mm pins may be substituted.  You may also cut down 5mm drill rod or other precision stock to length.  Note some holes can accomodate longer than 32mm pins, so measure and make them longer if need be.
 
 #### INSTALLATION OF PINS
 You will probably need to drill out the holes in the parts with a 5mm drill bit.  The idler bearings and toothed idler should slide along the length of the pin.  If the pin is oversized (most dowel pins are), chuck it up in a drill and use 400 grit sandpaper to reduce the diameter.  You shouldn't need to remove more than 0.01mm so check as you go.   
