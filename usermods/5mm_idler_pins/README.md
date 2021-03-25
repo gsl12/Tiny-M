@@ -8,3 +8,6 @@ This mod has not been tested!
 
 #### BOM
   - 10x 5mmx32mm dowel pins.  [McMaster](https://www.mcmaster.com/91585A569/).  30mm pins may be substituted.
+
+#### INSTALLATION OF PINS
+You will probably need to drill out the holes in the parts with a 5mm drill bit.  Press the pins into the parts while capturing the bearings/washers/idlers.  If they are loose, place some CA adhesive in the pin holes top and bottom.
