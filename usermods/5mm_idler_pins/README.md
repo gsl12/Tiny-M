@@ -5,7 +5,7 @@ This is a mod to use 5mm dowel pins instead of fasteners for the idlers to ride 
 
 #### RATIONALE
 Dowel pins are exactly 5mm in diameter vs the typical 4.8mm of M5 screws.  This provides a better bearing surface for the inner race of the idler bearings.  Bearing on threads is especially problematic.
-It should prolong the life of the bearings and improve print quality.
+It should prolong the life of the bearings and improve print quality because there's signicantly less play.
 
 This mod has not been tested yet! 
 
