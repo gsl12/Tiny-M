@@ -10,4 +10,4 @@ This mod has not been tested!
   - 10x 5mmx32mm dowel pins.  [McMaster](https://www.mcmaster.com/91585A569/).  30mm pins may be substituted.
 
 #### INSTALLATION OF PINS
-You will probably need to drill out the holes in the parts with a 5mm drill bit.  Press the pins into the parts while capturing the bearings/washers/idlers.  If they are loose, place some CA adhesive in the pin holes top and bottom.
+You will probably need to drill out the holes in the parts with a 5mm drill bit.  The idler bearings and toothed idler should slide along the length of the pin.  If the pin is oversized (most dowel pins are), chuck it up in a drill and use 400 grit sandpaper to reduce the diameter.  You shouldn't need to remove more than 0.01mm so check as you go.   Press the pins into the parts while capturing the bearings/washers/idlers.  If they are loose, place some CA adhesive in the pin holes top and bottom.
