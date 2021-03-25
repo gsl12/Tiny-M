@@ -18,4 +18,4 @@ The changes for a 190^3 build volume are fairly simple.
 - Three parts need to be 40mm wider.  The front nosepiece and the upper and lower Z supports.  They are in the STLs subdir here
 - Skirts are changed.  STLs are TBD.
 
-![190^3 Z Assembly](https://github.com/gsl12/Tiny-M/blob/master/usermods/190%5E3%20Prusa%20Mini%20Mod/images/z.png)
+![190^3 Z Assembly](https://github.com/gsl12/Tiny-M/blob/master/usermods/190mm_prusa_mini_mod/images/z.png)
