@@ -50,13 +50,13 @@ There are 3 versions of the XY-Joins.
 ### User Mods
 There are several user mod STLs in the usermods directory.
 
-[190^3 Mod which uses Prusa mini bed plates]()
+[190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
 
 [Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
 
 [Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
 
-[Schlank's Fysetc 12864 mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
+[5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
 
 
 ### Discord
@@ -68,7 +68,7 @@ The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where sever
 
 V4  
 
-<img src="images/cad_v4.jpg" width="400"> 
+<img src="images/CAD_V4.jpg" width="400"> 
 
 old  
 
