@@ -70,7 +70,7 @@ The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where sever
 
 V4  
 
-<img src="https://github.com/gsl12/Tiny-M/blob/master/images/CAD_V4.jpg" width="400"> 
+<img src="images/CAD_V4.jpg" width="400"> 
 
 old  
 
