@@ -58,8 +58,6 @@ There are several user mod STLs in the usermods directory.
 
 [5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
 
-[Schlank's Fysetc 12864 mod](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima)
-
 
 ### Discord
 
