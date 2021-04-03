@@ -36,6 +36,8 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 ### BOM
 DRAFT BOM is available now. Thanks to CookieSN !
 
+WARNING ! The store Funssor on aliexpress sell a V0 kit with pictures of my Tiny-M. He use picture from github. To be clear IT IS NOT a Tiny-M Kit. Please don't buy it , if you want to build a Tiny-M.
+
 ### Build Tips
 There are 3 versions of the XY-Joins.
 
