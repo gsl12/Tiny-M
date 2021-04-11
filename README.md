@@ -26,7 +26,7 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 
 ### Hardware
 
-    - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work)
+    - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work).  Must have 4.0-4.2mm hole at ends.
     - Nema 17 stepper motors
     - 3x 200mm MGN9H for XY
     - 2x 200mm MGN12H for Z
@@ -54,7 +54,7 @@ There are 3 versions of the XY-Joins.
 [Mark Hoy's Excellent Build Log](https://github.com/mark-hoy/tiny-m-build)
 
 ### User Mods
-There are several user mod STLs in the usermods directory.
+There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-M/tree/master/usermods) directory.
 
 [190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
 
@@ -63,6 +63,8 @@ There are several user mod STLs in the usermods directory.
 [Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
 
 [5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
+
+[Rear Cable Guide](https://github.com/gsl12/Tiny-M/tree/master/usermods/rear_cable_guide)
 
 
 ### Discord
