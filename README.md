@@ -53,6 +53,8 @@ There are 3 versions of the XY-Joins.
 
 [Mark Hoy's Excellent Build Log](https://github.com/mark-hoy/tiny-m-build)
 
+[Aku's Build Pix](https://photos.google.com/share/AF1QipNcXcmM3RKy_vv-VFk4SFu25SVPCTLMsn6qd6mMj0eABvdKW5LyGL7gtdgspUF8wQ?key=Z04wNVNHN2dNYWpYLUVPYXBGT1JfNFBaMF9ObUNB)
+
 ### User Mods
 There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-M/tree/master/usermods) directory.
 
