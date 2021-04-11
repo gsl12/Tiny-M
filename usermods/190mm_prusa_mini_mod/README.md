@@ -2,6 +2,8 @@
 
 - Ocho Camino
 
+Skirts by @AgentL3r
+
 The changes for a 190^3 build volume are fairly simple.   
 - All frame extrusions need to be 50mm longer
    * 11x 2020 310mm  (note one more than normal Tiny-M.  This is used as a cross brace in the front to stiffen the frame)
@@ -16,6 +18,6 @@ The changes for a 190^3 build volume are fairly simple.
 - Mic6 bed should be 190x190x6mm.  Template for drilling are in the STLs subdir here.
 - Bed heater should be 150x150mm.   [Keenovo or AliExpress](https://www.aliexpress.com/item/4000271859036.html?spm=a2g0s.9042311.0.0.27424c4dSLLDSs)
 - Three parts need to be 40mm wider.  The front nosepiece and the upper and lower Z supports.  They are in the STLs subdir here
-- Skirts are changed.  STLs are TBD.
+- Skirts are changed.  STLs and CAD by @AgentL3r are here
 
 ![190^3 Z Assembly](https://github.com/gsl12/Tiny-M/blob/master/usermods/190mm_prusa_mini_mod/images/z.png)
