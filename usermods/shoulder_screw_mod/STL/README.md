@@ -1,4 +1,4 @@
-### Shoulder screw mod
+### Shoulder Screw Mod
 
 This is a mod to use shoulder screws instead of regular metric screws as the shafts for the idlers to ride upon.  
 
