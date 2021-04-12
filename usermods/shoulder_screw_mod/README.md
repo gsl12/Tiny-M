@@ -21,7 +21,7 @@ Print the replacement parts in the STL directory here.
 
 Print the replacement parts, except the M4 versions in the STL directory here.  Install the thread adapters on the 4 M5x30 shoulder screws and secure with Loc-Tite.   These may then be threaded into the tapped M5 hole on the end of the 2020 vertical corner extrusions.
  
-#### MCMASTER M4 THREADED SHOULDER
+#### MCMASTER M4 THREADED SHOULDERS
   * 4x M5x30 Shoulder Screws, 9mm threads for corners, McMaster [92981A055](https://www.mcmaster.com/92981A055/)
   * 2x M5x30 Shoulder Screws 5mm threads for AB idlers, McMaster [90278A376](https://www.mcmaster.com/90278A376/)
   * 4x M5x20 Shoulder Screws, McMaster [92981A042](https://www.mcmaster.com/92981A042/)
