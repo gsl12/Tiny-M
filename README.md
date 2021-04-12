@@ -66,6 +66,8 @@ There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-
 
 [Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
 
+[5mm Shoulder Screw Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/shoulder_screw_mod)
+
 [5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
 
 [Rear Cable Guide](https://github.com/gsl12/Tiny-M/tree/master/usermods/rear_cable_guide)
