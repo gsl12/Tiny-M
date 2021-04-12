@@ -10,12 +10,15 @@ On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.
 
 Print the replacement parts in the STL directory here.
 
-#### BOM
+#### MISUMI M3 THREADED SHOULDER BOM
   * 6x M5x30 Shoulder Screws, Misumi [SMSB5-30](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-30)
   * 4x M5x20 Shoulder Screws, Misumi [SMSB5-20](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-20)
   * 4x M3-M5 308 Type Thread Adapters, AliExpress [M3-M5 308](https://www.aliexpress.com/item/32817733610.html)
  
- or if using shoulders with M4 threads
+#### MCMASTER M4 THREADED SHOULDER BOM
+  * 4x M5x30 Shoulder Screws, 9mm threads for corners, McMaster [92981A055](https://www.mcmaster.com/92981A055/)
+  * 2x M5x30 Shoulder Screws 4mm threads for AB idlers, McMaster [90278A376](https://www.mcmaster.com/90278A376/)
+  * 4x M5x20 Shoulder Screws, McMaster [92981A042](https://www.mcmaster.com/92981A042/)
   * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
 
 
