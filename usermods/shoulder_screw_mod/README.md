@@ -2,7 +2,11 @@
 
 This is a mod to use shoulder screws instead of regular metric screws as the shafts for the idlers to ride upon.  
 
+#### Rationale
+
 Shoulder screws are machined to specified dimensions vs screws which are undersized and often have a rough surface.  With undersized screws the contact area of the screw to the inner race of the bearing is much less (ideally a line), creating excessive Hertzian contact stress.  This is hard on the bearing and can create imprecision in the motion of the machine.
+
+#### Description
 
 This mod uses Misumi 5mm shoulder screws which have M3 threads on the end.   Most other shoulder screws have M4 threads.  It should be possible to drill out the threads on the bottoms of the two XY joins and tap that M4 to use M4 threaded shoulders if access to those are easier for you.
 
