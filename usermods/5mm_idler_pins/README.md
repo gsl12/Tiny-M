@@ -1,6 +1,8 @@
 ### 5mm Dowel Pin Mod
 - Ocho Camino
 
+NOTE:  The 5mm shoulder screw mod is recommended over this mod.
+
 This is a mod to use 5mm dowel pins instead of fasteners for the idlers to ride on.  It is based on the V4 gantry.
 
 #### RATIONALE
