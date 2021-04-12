@@ -1,5 +1,7 @@
 ### Shoulder Screw Mod
 
+by Ocho Camino
+
 This is a mod to use shoulder screws instead of regular metric screws as the shafts for the idlers to ride upon.  
 
 #### Rationale
