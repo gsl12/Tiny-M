@@ -8,7 +8,7 @@ Shoulder screws are machined to specified dimensions vs screws which are undersi
 
 #### Description
 
-This mod either uses Misumi 5mm shoulder screws which have M3 threads on the end, or McMaster or other shoulder screws which have M4 threads.  
+This mod either uses Misumi 5mm shoulder screws which have M3 threads on the end, or McMaster or other shoulder screws which have M4 threads.  The thread lengths are important on the McMaster M4 version, so if substituting other sources you may need to remove some thread if it's too long and bottoms out.
 
 On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.  If using Misumi shoulders, you will need thread adapters.   If using M4 shoulders you will need M4 Helicoils
 
@@ -19,7 +19,7 @@ Print the replacement parts in the STL directory here.
   * 4x M5x20 Shoulder Screws, Misumi [SMSB5-20](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-20)
   * 4x M3-M5 308 Type Thread Adapters, AliExpress [M3-M5 308](https://www.aliexpress.com/item/32817733610.html)
 
-Print the replacement parts, except the M4 versions in the STL directory here.
+Print the replacement parts, except the M4 versions in the STL directory here.  Install the thread adapters on the 4 M5x30 shoulder screws and secure with Loc-Tite.   These may then be threaded into the tapped M5 hole on the end of the 2020 vertical corner extrusions.
  
 #### MCMASTER M4 THREADED SHOULDER
   * 4x M5x30 Shoulder Screws, 9mm threads for corners, McMaster [92981A055](https://www.mcmaster.com/92981A055/)
@@ -27,7 +27,7 @@ Print the replacement parts, except the M4 versions in the STL directory here.
   * 4x M5x20 Shoulder Screws, McMaster [92981A042](https://www.mcmaster.com/92981A042/)
   * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
 
-Print the replacement parts (the M4 versions) in the STL directory here.
+Print the replacement parts (the M4 versions) in the STL directory here.  Install M4 helicoils in the 4 corner 2020 extrusions.   
 
 
  
