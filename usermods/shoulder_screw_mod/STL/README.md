@@ -13,8 +13,9 @@ On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.
 #### BOM
   * 6x M5x30 Shoulder Screws, Misumi [SMSB5-30](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-30)
   * 4x M5x20 Shoulder Screws, Misumi [SMSB5-20](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-20)
-  * 4x M3-M5 308 Type Thread Adapters, AliExpress [M3-M5 308](https://www.aliexpress.com/item/32817733610.html?spm=a2g0o.detail.1000014.25.58ba4bb9lUfMA7&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.213724.0&scm_id=1007.33416.213724.0&scm-url=1007.33416.213724.0&pvid=2577c804-434b-4c1c-8db4-45fb733708a2&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.213724.0,pvid:2577c804-434b-4c1c-8db4-45fb733708a2,tpp_buckets:668%230%23131923%2333_668%23888%233325%2310_23416%230%23213724%230_23416%234721%2321967%233_23416%234722%2321972%232_668%232846%238113%231998_668%232717%237559%2339_668%231000022185%231000066058%230_668%233422%2315392%23519_4452%230%23214000%230_4452%233474%2315675%23380_4452%234862%2324463%23294_4452%233098%239599%23457_4452%235108%2323442%23965_4452%233564%2316062%23912)
+  * 4x M3-M5 308 Type Thread Adapters, AliExpress [M3-M5 308](https://www.aliexpress.com/item/32817733610.html)
+ 
  or if using shoulders with M4 threads
-  * 1x M4 Helicoil kit, AlieExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html?spm=a2g0s.9042311.0.0.6ec34c4dVfhG2W)
+  * 1x M4 Helicoil kit, AlieExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
 
 
