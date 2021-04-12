@@ -21,7 +21,7 @@ Print the replacement parts in the STL directory here.
  
 #### MCMASTER M4 THREADED SHOULDER BOM
   * 4x M5x30 Shoulder Screws, 9mm threads for corners, McMaster [92981A055](https://www.mcmaster.com/92981A055/)
-  * 2x M5x30 Shoulder Screws 4mm threads for AB idlers, McMaster [90278A376](https://www.mcmaster.com/90278A376/)
+  * 2x M5x30 Shoulder Screws 5mm threads for AB idlers, McMaster [90278A376](https://www.mcmaster.com/90278A376/)
   * 4x M5x20 Shoulder Screws, McMaster [92981A042](https://www.mcmaster.com/92981A042/)
   * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
 
