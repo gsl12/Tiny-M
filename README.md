@@ -39,7 +39,7 @@ DRAFT BOM is available now. Thanks to CookieSN !
 WARNING ! The store Funssor on aliexpress sell a V0 kit with pictures of my Tiny-M. He use picture from github. To be clear IT IS NOT a Tiny-M Kit. Please don't buy it , if you want to build a Tiny-M.
 
 ### Build Tips
-There are 3 versions of the XY-Joins.
+There are 3 versions of the XY-Joins.  V4 is recommended.
 
 - V2 - use 2GT 20T pulleys - No Set Screw Hub
     - The outer diameter of the flanges from the pulleys for XY Joins will not fit.
@@ -50,6 +50,8 @@ There are 3 versions of the XY-Joins.
     - optimized belt path to use E3D idler (10mm high) or chinese (9mm high)
     - some design changes
     - more rigid
+
+Parts are best printed out of ABS or ABS+ with 0.4 nozzle with 0.48 extrusion width, 0.2-0.3 layer height, 5 top/bottom layers, 4 perimeters, 40% infill (triangular recommended).  Skirts can be printed out of pretty much any filament type.
 
 [Mark Hoy's Excellent Build Log](https://github.com/mark-hoy/tiny-m-build)
 

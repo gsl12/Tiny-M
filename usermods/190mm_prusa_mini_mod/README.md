@@ -6,7 +6,7 @@ Skirts by @AgentL3r
 
 The changes for a 190^3 build volume are fairly simple.   
 - All frame extrusions need to be 50mm longer
-   * 11x 2020 310mm  (note one more than normal Tiny-M.  This is used as a cross brace in the front to stiffen the frame)
+   * 11x 2020 310mm  (note one more than normal Tiny-M.  This is used as a cross brace about halfway up in the front to stiffen the frame)
    * 4x	2020 350mm
    * 2x	2020 300mm
 - All bed extrusions need to be 40 mm longer
