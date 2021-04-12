@@ -8,7 +8,7 @@ This mod uses Misumi 5mm shoulder screws which have 3mm threads on the end.   Mo
 
 On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.  If using Misumi shoulders, you will need thread adapters.   If using M4 shoulders you will need M4 Helicoils
 
-
+Print the replacement parts in the STL directory here.
 
 #### BOM
   * 6x M5x30 Shoulder Screws, Misumi [SMSB5-30](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-30)
@@ -16,6 +16,7 @@ On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.
   * 4x M3-M5 308 Type Thread Adapters, AliExpress [M3-M5 308](https://www.aliexpress.com/item/32817733610.html)
  
  or if using shoulders with M4 threads
-  * 1x M4 Helicoil kit, AlieExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
+  * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
+
 
 
