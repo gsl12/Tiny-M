@@ -1,8 +1,7 @@
 ### 190^3 Build volume which can use the Prusa Mini Bed Plate.
 
 - Ocho Camino
-
-Skirts by @AgentL3r
+- Skirts by @AgentL3r
 
 The changes for a 190^3 build volume are fairly simple.   
 - All frame extrusions need to be 50mm longer
