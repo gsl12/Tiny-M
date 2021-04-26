@@ -25,15 +25,15 @@ Print the replacement parts, except the M4 versions in the STL directory here.  
  
 #### MCMASTER M4 THREADED SHOULDERS
   * 4x 5mmx30 Shoulder Screws, 9mm long M4 threads for corners, McMaster [92981A055](https://www.mcmaster.com/92981A055/)
-  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB idlers, McMaster [90278A376](https://www.mcmaster.com/90278A376/)
+  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB drives, McMaster [90278A376](https://www.mcmaster.com/90278A376/)
   * 4x 5mmx20 Shoulder Screws, 9mm long M4 threads for XY Joins, McMaster [92981A042](https://www.mcmaster.com/92981A042/)
   * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html)
 
 Print the replacement parts (the M4 versions) in the STL directory here.  Install M4 helicoils in the 4 corner 2020 extrusions.   
 
 #### EU Folks using 20x20 B-type groove 6 and M4 THREADED SHOULDERS
-  * 4x 5mmx30 Shoulder Screws, 9mm long M4 threads for corners, NEED SOURCE
-  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB idlers, NEED SOURCE
+  * 4x 5mmx30 Shoulder Screws, 9mm long M4 threads for corners, Drasse [460119196](https://www.drabbe.nl/p/iso-7379-5-m4-30/100351/)
+  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB drives, NEED SOURCE
   * 4x 5mmx20 Shoulder Screws, 9mm long M4 threads for XY Joins NEED SOURCE
   * 4x M4-M6 308 Type Thread Adapters, AliExpress [M4-M6 308](https://www.aliexpress.com/item/32817733610.html)
 
