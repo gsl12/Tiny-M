@@ -43,5 +43,5 @@ Print the replacement parts (the M4 versions) in the STL directory here.  Instal
 Print the replacement parts, except the M4 versions in the STL directory here.  Install the thread adapters on the 4 M5x30 shoulder screws and secure with Loc-Tite.   These may then be threaded into the tapped M6 hole on the end of the 2020 B-type groove 6 vertical corner extrusions. The Tee nuts accept the shoulder screw for the front idler on the AB drives
  
 
-
+Note, the 5mm shoulders with M4 threads can be sourced from China.  [one possible source - not verified](https://www.aliexpress.com/item/1005001698010943)
  
