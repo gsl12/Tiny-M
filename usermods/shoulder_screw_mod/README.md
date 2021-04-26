@@ -32,9 +32,9 @@ Print the replacement parts, except the M4 versions in the STL directory here.  
 Print the replacement parts (the M4 versions) in the STL directory here.  Install M4 helicoils in the 4 corner 2020 extrusions.   
 
 #### EU Folks using 20x20 B-type groove 6 and M4 THREADED SHOULDERS
-  * 4x 5mmx30 Shoulder Screws, 9mm long M4 threads for corners, Drasse [460119196](https://www.drabbe.nl/p/iso-7379-5-m4-30/100351/)
-  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB drives, NEED SOURCE
-  * 4x 5mmx20 Shoulder Screws, 9mm long M4 threads for XY Joins NEED SOURCE
+  * 4x 5mmx30 Shoulder Screws, 8mm long M4 threads for corners, Drasse [460119196](https://www.drabbe.nl/p/iso-7379-5-m4-30/100351/)
+  * 2x 5mmx25 Shoulder Screws 8mm long M4 threads for AB drives, Drasse [460119221](https://www.drabbe.nl/p/iso-7379-5-m4-25/100350/)
+  * 4x 5mmx20 Shoulder Screws, 8mm long M4 threads for XY Joins Drasse [460119215](https://www.drabbe.nl/p/iso-7379-5-m4-20/100349/)
   * 4x M4-M6 308 Type Thread Adapters, AliExpress [M4-M6 308](https://www.aliexpress.com/item/32817733610.html)
 
 Print the replacement parts, except the M4 versions in the STL directory here.  Install the thread adapters on the 4 M5x30 shoulder screws and secure with Loc-Tite.   These may then be threaded into the tapped M6 hole on the end of the 2020 B-type groove 6 vertical corner extrusions.
