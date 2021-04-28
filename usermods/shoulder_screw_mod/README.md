@@ -25,10 +25,10 @@ Print the replacement parts in the STL directory here.
 Print the replacement parts, except the M4 versions in the STL directory here.  Install the thread adapters on the 4 M5x30 shoulder screws and secure with Loc-Tite.   These may then be threaded into the tapped M5 hole on the end of the 2020 vertical corner extrusions.  The Tee nuts accept the shoulder screw for the front idler on the AB drives
  
 #### MCMASTER M4 THREADED SHOULDERS
-  * 4x 5mmx30 Shoulder Screws, 5-9mm long M4 threads for corners, [Filastruder](https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=c5a60b2bd&_ss=r&variant=32520243380295) [McMaster 92981A055](https://www.mcmaster.com/92981A055/)
-  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB drives, [Filastruder](https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=c5a60b2bd&_ss=r&variant=32520243380295) [McMaster 90278A376](https://www.mcmaster.com/90278A376/)
-  * 4x 5mmx20 Shoulder Screws, 5-9mm long M4 threads for XY Joins, [Filastruder](https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=c5a60b2bd&_ss=r&variant=16712533868615) [McMaster 92981A042](https://www.mcmaster.com/92981A042/)
-  * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html) [McMaster 91732A946](https://www.mcmaster.com/91732A946/)
+  * 4x 5mmx30 Shoulder Screws, 5-9mm long M4 threads for corners, [Filastruder](https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=c5a60b2bd&_ss=r&variant=32520243380295) or [McMaster 92981A055](https://www.mcmaster.com/92981A055/)
+  * 2x 5mmx30 Shoulder Screws 5mm long M4 threads for AB drives, [Filastruder](https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=c5a60b2bd&_ss=r&variant=32520243380295) or [McMaster 90278A376](https://www.mcmaster.com/90278A376/)
+  * 4x 5mmx20 Shoulder Screws, 5-9mm long M4 threads for XY Joins, [Filastruder](https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=c5a60b2bd&_ss=r&variant=16712533868615) or [McMaster 92981A042](https://www.mcmaster.com/92981A042/)
+  * 1x M4 Helicoil kit, AliExpress [M4x0.7](https://www.aliexpress.com/item/4001157165014.html) or [McMaster 91732A946](https://www.mcmaster.com/91732A946/)
   * 2x M4 Tee Nuts
 
 Print the replacement parts (the M4 versions) in the STL directory here.  Install M4 helicoils in the 4 corner 2020 extrusions.   The Tee nuts accept the shoulder screw for the front idler on the AB drives 
