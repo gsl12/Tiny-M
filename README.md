@@ -60,11 +60,8 @@ Parts are best printed out of ABS or ABS+ with 0.4 nozzle with 0.48 extrusion wi
 ### User Mods
 There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-M/tree/master/usermods) directory.
 
+#### V4 Mods
 [190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
-
-[Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
-
-[Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
 
 [5mm Shoulder Screw Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/shoulder_screw_mod)
 
@@ -72,6 +69,10 @@ There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-
 
 [Rear Cable Guide](https://github.com/gsl12/Tiny-M/tree/master/usermods/rear_cable_guide)
 
+#### V3 Mods
+[Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
+
+[Ocho Camino's Sailfin Direct Drive Toolhead](https://github.com/CroXY3D/Sailfin-Extruder)
 
 ### Discord
 
