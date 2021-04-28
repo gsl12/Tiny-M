@@ -25,7 +25,7 @@ After checking all parts, I recognize, that I could build a converted Voron V0 w
 
 ### Hardware
 
-    - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work).  Must have 4.0-4.2mm hole at ends.
+    - 2020 Nut 5 I-Typ alu profiles (6mm wide slot Misumi 2020 will work).  Must have 4.0-4.2mm hole at ends.  B-Typ can work with Helicoils to give a 5mm tapped end.
     - Nema 17 stepper motors
     - 1x 200mm MGN12H for X
     - 2x 200mm MGN9H for Y
@@ -63,7 +63,7 @@ There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-
 #### V4 Mods
 [190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
 
-[5mm Shoulder Screw Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/shoulder_screw_mod)
+[5mm Shoulder Screw Mod, (also works with B-Typ extrusions)](https://github.com/gsl12/Tiny-M/tree/master/usermods/shoulder_screw_mod)
 
 [5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
 
