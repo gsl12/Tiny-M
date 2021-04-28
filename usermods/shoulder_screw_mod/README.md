@@ -16,6 +16,8 @@ On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.
 
 Print the replacement parts in the STL directory here.
 
+Total cost of this mod is about $25-$30.
+
 #### MISUMI M3 THREADED SHOULDERS
   * 6x 5mmx30 Shoulder Screws M3 Threads, Misumi [SMSB5-30](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-30)
   * 4x 5mmx20 Shoulder Screws M3 Threads, Misumi [SMSB5-20](https://us.misumi-ec.com/vona2/detail/110300249140/?ProductCode=SMSB5-20)
