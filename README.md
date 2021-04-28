@@ -76,7 +76,7 @@ There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-
 
 ### Discord
 
-The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where several Tiny-M builders hang out.
+The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where several Tiny-M builders hang out.  Be sure to check the #tiny-m-faq channel
 
 
 # Images
