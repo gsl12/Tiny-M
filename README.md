@@ -85,7 +85,7 @@ V4
 
 <img src="images/CAD_V4.jpg" width="400"> 
 
-old  
+V3  
 
 <img src="images/build_p2.jpg" width="200"> <img src="images/build_p3.jpg" width="200">
 
