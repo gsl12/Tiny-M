@@ -69,6 +69,8 @@ There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-
 
 [Rear Cable Guide](https://github.com/gsl12/Tiny-M/tree/master/usermods/rear_cable_guide)
 
+[Tophat Mod](https://www.prusaprinters.org/prints/64115-tiny-m-voron0-mod-tophead) - Note, an official tophat is in development.
+
 #### V3 Mods
 [Xile's Sherpa Direct Drive Toolhead](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M)
 
