@@ -1,6 +1,6 @@
 # Tiny-M
 
-<img src="images/build_p1.jpg" width="200">
+<img src="images/tiny-m_v4.jpg" width="300">
 
 A compact printer with build volume: 150x150x150 mm
 
@@ -80,10 +80,6 @@ The [CroXY Discord](https://discord.gg/tmZkjWs) has a tiny-m channel where sever
 
 
 # Images
-
-V4  
-
-<img src="images/CAD_V4.jpg" width="400"> 
 
 V3  
 
