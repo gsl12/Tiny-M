@@ -2,7 +2,7 @@
 
 - @Ocho Camino
 
-![Pic]()
+![Pic](https://github.com/gsl12/Tiny-M/blob/master/usermods/all_metal_bed_undercarriage/images/150.png)
 
 ## Rationale
 The existing bed mounts are made of ABS and flex somewhat.   Making the entire bed undercarriage out of metal greatly reduces this flex.
@@ -29,3 +29,7 @@ Common:
 - 1x M5x16 SHCS
 
 ###Assembly
+
+Note the rear two holes on the bed are in slightly different positions than on stock Tiny-M.   Use the template (TBD) to drill the two countersunk M3 holes
+
+Print the parts (ok, it's not all metal, but the load bearing parts are).  The nosepiece can be printed with a filament swap for a contrasting color for the logo.   Assembly of the rest of the parts should be straightforward.   The Openbuilds corner brackts screw into the top screw holes of the MGN12H cars.  The lower screw holes are not used.
