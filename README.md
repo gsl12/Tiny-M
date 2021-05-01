@@ -63,6 +63,8 @@ There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-
 #### V4 Mods
 [190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
 
+[All Metal Bed Undercarriage](https://github.com/gsl12/Tiny-M/tree/master/usermods/all_metal_bed_undercarriage)
+
 [5mm Shoulder Screw Mod, (also works with B-Typ extrusions)](https://github.com/gsl12/Tiny-M/tree/master/usermods/shoulder_screw_mod)
 
 [5mm Dowel Pin Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/5mm_idler_pins)
