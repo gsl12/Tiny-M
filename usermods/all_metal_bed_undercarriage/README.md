@@ -30,6 +30,8 @@ Common:
 
 ## Assembly
 
-Note the rear two holes on the bed are in slightly different positions than on stock Tiny-M.   Use the template (TBD) to drill the two countersunk M3 holes
+Note the rear two holes on the bed are in slightly different positions than on stock Tiny-M.   Use the template (TBD) to drill the two countersunk M3 holes.   
+
+The two angle brackets that support the forward spar can be any type of angle bracket.  Make sure this connection is solid and doesn't twist or flex.   The other angle brackets must be 20x20 triangles with no protrusions.  Cubes will snag on the printhead.  
 
 Print the parts (ok, it's not all metal, but the load bearing parts are).  The nosepiece can be printed with a filament swap for a contrasting color for the logo.   Assembly of the rest of the parts should be straightforward.   The Openbuilds corner brackts screw into the top screw holes of the MGN12H cars.  The lower screw holes are not used.
