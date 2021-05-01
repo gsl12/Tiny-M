@@ -28,7 +28,7 @@ Common:
 - 1x M5x12 SHCS
 - 1x M5x16 SHCS
 
-###Assembly
+## Assembly
 
 Note the rear two holes on the bed are in slightly different positions than on stock Tiny-M.   Use the template (TBD) to drill the two countersunk M3 holes
 
