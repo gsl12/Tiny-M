@@ -18,10 +18,10 @@ The existing bed mounts are made of ABS and flex somewhat.   Making the entire b
 - 1x HFSB5-2020-173-RTP-AH10
 
 Common:
-- 6x Openbuilds Angle Brackets [Openbuilds](https://openbuildspartstore.com/black-angle-corner-connector/)
+- 6x Openbuilds Angle Brackets [Openbuilds](https://openbuildspartstore.com/black-angle-corner-connector/) [Ali Express](https://www.aliexpress.com/item/32899575950.html)
 - 3x 16mm long silicone bed mounts [Amazon](https://smile.amazon.com/dp/B07RZKF8MB?psc=1&ref=ppx_yo2_dt_b_product_details)
-- 3x Bed Adjusters (reuse existing)
-- 3x 45mm (or 50mm) FHCS screws
+- 3x Bed Adjusters (reuse existing) [Ali Experss Style B or D](https://www.aliexpress.com/item/4000421280308.html)
+- 3x 45mm (or 50mm) FHCS screws.  45s protrude only 2.3 mm below the extrusion, so 50 is probably better.
 - 4x M3 washers (at least 6mm OD)
 - 4x M3x8 SHCS
 - 9x M5x6 BHCS
