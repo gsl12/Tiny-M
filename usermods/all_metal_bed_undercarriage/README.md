@@ -7,6 +7,10 @@
 ## Rationale
 The existing bed mounts are made of ABS and flex somewhat.   Making the entire bed undercarriage out of metal greatly reduces this flex.
 
+## Status
+
+  Alpha.  Still testing.  There could be some changes.
+  
 ## BOM
 
 150mm Bed:
