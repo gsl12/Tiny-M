@@ -17,7 +17,7 @@ The existing bed mounts are made of ABS and flex somewhat.   Making the entire b
 - 1x HFSB5-2040-160-AH10-BH150-AV80 (Misumi).   You may drill the holes yourself and save $
 - 1x HFSB5-2020-133-RTP-AH10 (Misumi). 
 
-180mm Bed:
+190mm Bed:
 - 1x HFSB5-2040-200-AH10-BH190-AV100
 - 1x HFSB5-2020-173-RTP-AH10
 
