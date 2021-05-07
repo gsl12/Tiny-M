@@ -53,6 +53,8 @@ There are 3 versions of the XY-Joins.  V4 is recommended.
 
 Parts are best printed out of ABS or ABS+ with 0.4 nozzle with 0.48 extrusion width, 0.2-0.3 layer height, 5 top/bottom layers, 4 perimeters, 40% infill (triangular recommended).  Skirts can be printed out of pretty much any filament type.
 
+There are drill and tapping jigs if you wish to drill and tap your extrusions yourself.  The drilled holes are for blind joints and aren't necessary if using corner brackets.
+
 [Mark Hoy's Excellent Build Log](https://github.com/mark-hoy/tiny-m-build)
 
 [Aku's Build Pix](https://photos.google.com/share/AF1QipNcXcmM3RKy_vv-VFk4SFu25SVPCTLMsn6qd6mMj0eABvdKW5LyGL7gtdgspUF8wQ?key=Z04wNVNHN2dNYWpYLUVPYXBGT1JfNFBaMF9ObUNB)
