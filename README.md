@@ -63,6 +63,8 @@ There are drill and tapping jigs if you wish to drill and tap your extrusions yo
 There are several user mod STLs in the [usermods](https://github.com/gsl12/Tiny-M/tree/master/usermods) directory.
 
 #### V4 Mods
+[Belted Z Mod](https://github.com/gsl12/Tiny-M/tree/master/usermods/belted_z_mod_150mm)
+
 [190^3 Mod which uses Prusa mini bed plates](https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod)
 
 [All Metal Bed Undercarriage](https://github.com/gsl12/Tiny-M/tree/master/usermods/all_metal_bed_undercarriage)
