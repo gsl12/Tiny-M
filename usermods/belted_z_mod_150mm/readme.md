@@ -10,6 +10,8 @@ CAD shows a printed 80T gear because I copied that over from the V0 belted z fil
 
 The M5x20mm screws need to be BHCS for clearance with 80T gear, but all other bolts can be either SHCS or BHCS.
 
+[sample printer.cfg changes](https://github.com/gsl12/Tiny-M/blob/master/usermods/belted_z_mod_150mm/beltedzstepper.cfg.txt)
+
 #### BOM (US Sources)
 ##### Electronics	
 - LDO NEMA17 42STH20-1004ASH	[PrintedSolid](https://www.printedsolid.com/collections/motors/products/ldo-nema-17-high-temp-voron-ldo-42sth20-1004ashvrn)  other 20 or a 25mm stepper 0.9 or 1.8 deg should work
