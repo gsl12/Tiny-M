@@ -1,4 +1,4 @@
-### Belted Z Mod for 150mm Tiny-M
+### Belted Z Mod for 150mm and 190mm Tiny-M
 
 @quasi
 
