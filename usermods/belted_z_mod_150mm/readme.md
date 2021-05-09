@@ -26,7 +26,7 @@ The M5x20mm screws need to be BHCS for clearance with 80T gear, but all other bo
 - 1x 2GT 80T Pulley 6mm, 5mm Bore			[AliExpress](https://www.aliexpress.com/item/32782605159.html)
 - 1x 2GT 20T Toothed Idler 6mm, 5mm Bore		Alternate to 2 F695-2RS bearings	[AliExpress](https://www.aliexpress.com/item/32726309946.html)
 #### Hardware	
-- Xx 5x10x0.5 Shim Ring			[AliExpress](https://www.aliexpress.com/item/32917948919.html)
+- Xx 5x10x0.5 Shim Ring			[AliExpress](https://www.aliexpress.com/item/32917948919.html) Qty as necessary.  
 - 1x M3x5x4 Heatset Inserts		[AliExpress](https://www.aliexpress.com/item/4000232858343.html?spm=a2g0s.9042311.0.0.21164c4dGhWHhY)
 - 2x M3 roll in T-nuts		[AliExpress](https://www.aliexpress.com/item/32805163712.html)
 - 4x M5 roll in T-nuts			[AliExpress](https://www.aliexpress.com/item/32805163712.html)
