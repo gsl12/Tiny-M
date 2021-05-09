@@ -10,6 +10,8 @@ CAD shows a printed 80T gear because I copied that over from the V0 belted z fil
 
 The M5x20mm screws need to be BHCS for clearance with 80T gear, but all other bolts can be either SHCS or BHCS.
 
+Print the Bottom Frame Bracket 190.stl version if using this on a 190mm^3 Tiny-M
+
 [sample printer.cfg changes](https://github.com/gsl12/Tiny-M/blob/master/usermods/belted_z_mod/beltedzstepper.cfg.txt)
 
 #### BOM (US Sources)
