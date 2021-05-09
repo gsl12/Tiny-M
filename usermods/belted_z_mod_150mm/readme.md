@@ -12,7 +12,7 @@ The M5x20mm screws need to be BHCS for clearance with 80T gear, but all other bo
 
 #### BOM (US Sources)
 ##### Electronics	
-- LDO NEMA17 42STH20-1004ASH	[PrintedSolid[(https://www.printedsolid.com/collections/motors/products/ldo-nema-17-high-temp-voron-ldo-42sth20-1004ashvrn)  other 20 or a 25mm stepper 0.9 or 1.8 deg should work
+- LDO NEMA17 42STH20-1004ASH	[PrintedSolid](https://www.printedsolid.com/collections/motors/products/ldo-nema-17-high-temp-voron-ldo-42sth20-1004ashvrn)  other 20 or a 25mm stepper 0.9 or 1.8 deg should work
 ##### Motion	
 - F695-2RS Bearing			Amazon
 - MF105-2RS Bearing			Amazon
