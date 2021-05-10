@@ -26,7 +26,7 @@ Print the Bottom Frame Bracket 190.stl version if using this on a 190mm^3 Tiny-M
 - 1x 2GT 20T Pulley 6mm, 5mm Bore			[AliExpress](https://www.aliexpress.com/item/32995102911.html)
 - 1x 2GT 16T Pulley 6mm, 5mm bore			[Amazon](https://www.amazon.com/gp/product/B01IMPM44O)
 - 1x 2GT 80T Pulley 6mm, 5mm Bore			[AliExpress](https://www.aliexpress.com/item/32782605159.html)
-- 1x 2GT 20T Toothed Idler 6mm, 5mm Bore		Alternate to 2 F695-2RS bearings	[AliExpress](https://www.aliexpress.com/item/32726309946.html)
+- 1x 2GT 20T Toothed Idler 6mm, 5mm Bore		Alternate to 2 F695-2RS bearings	[AliExpress](https://www.aliexpress.com/item/32726309946.html) or better quality: [AliExpress](https://www.aliexpress.com/item/33023133633.html)
 #### Hardware	
 - Xx 5x10x0.5 Shim Ring			[AliExpress](https://www.aliexpress.com/item/32917948919.html) Qty as necessary.  
 - 1x M3x5x4 Heatset Inserts		[AliExpress](https://www.aliexpress.com/item/4000232858343.html?spm=a2g0s.9042311.0.0.21164c4dGhWHhY)
