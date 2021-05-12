@@ -6,7 +6,7 @@
 An outer enclosure around the Tiny-M printer.  
 
 
-![Image]()
+![Image](https://github.com/gsl12/Tiny-M/blob/master/usermods/Tiny-dooM/images/Tiny_dooM.png)
 
 #### BOM
 
