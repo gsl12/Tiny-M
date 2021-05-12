@@ -16,7 +16,7 @@ On the four corners of Tiny-M the ends of the 2020s are tapped M5 for M5 screws.
 
 UPDATE: This mod now spaces the AB drive and other parts such that a 1mm washer can be inserted between the bearings used as idlers.  This makes the flange spacing 7mm, which is necessary because 2GT Gates Unitta belts are specced 6mm +/- 0.6mm and can rub on the flanges.  When that happens the vibrations can cause print defects that show up as a 2mm ripple.  Unfortunately this change impacts a number of parts so there's a lot more to reprint.
 
-![image]()
+![image](https://github.com/gsl12/Tiny-M/blob/master/usermods/shoulder_screw_mod/spacing.png)
 
 Print the replacement parts in the STL directory here.
 
