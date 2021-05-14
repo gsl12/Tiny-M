@@ -7,7 +7,7 @@ An outer enclosure around the Tiny-M printer.  This has only been designed in CA
 
 
 ![Image](https://github.com/gsl12/Tiny-M/blob/master/usermods/Tiny-dooM/images/Tiny_dooM.png)
-(slightly out of date)
+
 
 #### BOM
 
