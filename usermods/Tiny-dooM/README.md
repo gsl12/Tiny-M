@@ -11,7 +11,7 @@ An outer enclosure around the Tiny-M printer.  This has only been designed in CA
 
 #### BOM
 
-Nothing is changed from the default Tiny-M BOM.  (is that true - blind joints?)
+Nothing is changed from the default Tiny-M BOM.  However you will need to drill 2 blind joint access holes in the 4 z corner extrusions.  Those holes should be approx 30mm from the ends and face fore and aft.  They are used to attach the Tiny-M to the dooM frame.
 
 For a 190^3 Tiny-dooM add 50mm to every extrusion length
 
