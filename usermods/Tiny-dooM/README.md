@@ -23,15 +23,15 @@ For a 190^3 Tiny-dooM add 50mm to every extrusion length
 - Smooth faced extrusion option
   - 2x HFS5-2020-260 Top and bottom rear horizontals (Slots exposed for mounting things)
   - 3x HFSF5-2020-260 - Bottom front, left and right horizontals
-  - 3x HFSTS-2020-260 - Top front, left and right horizontals
+  - 3x HFST5-2020-260 - Top front, left and right horizontals
   - 2x HFSF5-2020-217 Front door horizontals
   - 2x HFSF5-2020-408 Front door verticals - you will need to drill holes for hinges and handle
 - 2x Hinges [Zyltech](https://www.zyltech.com/aluminum-swing-door-hinge-for-20mm-extrusion-w-mounting-hardware/) alt: HHPNL5-SST hinges
-- 24x Internal corner brackets [Zyltech]()
+- 24x Internal Corner Brackets [Zyltech](https://www.zyltech.com/t-slot-l-type-90-degree-2020-inside-bracket-12-pack/)
 - Door Catch TBD
 - Optional: Ninjaflex or similar TPU for feet
 
-Total Hardware Cost for 150 Tiny-dooM: ~$85
+Total Hardware Cost for 150 Tiny-dooM (no panels): ~$85
 
 #### Printed Parts
 
