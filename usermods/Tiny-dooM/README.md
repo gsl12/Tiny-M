@@ -35,7 +35,7 @@ For a 190^3 Tiny-dooM add 50mm to every extrusion length
 
 - 4x Top trim pieces
 - 4x Feet.  Optionally print black portion using Ninjaflex or similar TPU by filament swap.  Use XX% infill
-
+- TBD Panel retention:  Double pane?  In slot or slight inset from frame?
 
 
 
