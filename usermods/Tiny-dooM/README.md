@@ -31,6 +31,8 @@ For a 190^3 Tiny-dooM add 50mm to every extrusion length
 - Door Catch TBD
 - Optional: Ninjaflex or similar TPU for feet
 
+Total Hardware Cost for 150 Tiny-dooM: ~$85
+
 #### Printed Parts
 
 - 4x Top trim pieces
