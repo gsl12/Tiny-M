@@ -26,7 +26,7 @@ For a 190^3 Tiny-dooM add 50mm to every extrusion length
   - 3x HFSTS-2020-260 - Top front, left and right horizontals
   - 2x HFSF5-2020-217 Front door horizontals
   - 2x HFSF5-2020-408 Front door verticals - you will need to drill holes for hinges and handle
-- 2x HHPNL5-SST hinges
+- 2x Hinges [Zyltech](https://www.zyltech.com/aluminum-swing-door-hinge-for-20mm-extrusion-w-mounting-hardware/) alt: HHPNL5-SST hinges
 - 24x Internal corner brackets [Zyltech]()
 - Door Catch TBD
 - Optional: Ninjaflex or similar TPU for feet
