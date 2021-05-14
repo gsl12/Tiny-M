@@ -3,7 +3,7 @@
 - @Ocho Camino
 
 
-An outer enclosure around the Tiny-M printer.  
+An outer enclosure around the Tiny-M printer.  This has only been designed in CAD.  Nothing has been done IRL.
 
 
 ![Image](https://github.com/gsl12/Tiny-M/blob/master/usermods/Tiny-dooM/images/Tiny_dooM.png)
