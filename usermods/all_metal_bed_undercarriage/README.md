@@ -15,12 +15,12 @@ The existing bed mounts are made of ABS and flex somewhat.   Making the entire b
 
 150mm Bed:
 - 1x HFSB5-2020-160-AH80-AV10-BV150
-- 1x HFSB5-2020-160 (with 4 3mm clearance holes drilled for the MGN12 mount screws. Use MGN12_Jig)
+- 1x HFSB5-2020-160 (with 4 3mm clearance holes drilled for the MGN12 mount screws. Use MGN12_drill_jig.stl)
 - 1x HFSB5-2020-133-RTP-AV10 (Misumi). 
 
 190mm Bed:
 - 1x HFSB5-2040-200-AH100-AV10-BV190 
-- 1x HSFB5-2020-200 (with 4 3mm clearance holes drilled for the MGN12 mount screws.  Use MGN12_Jig)
+- 1x HSFB5-2020-200 (with 4 3mm clearance holes drilled for the MGN12 mount screws.  Use MGN12_drill_jig.stl)
 - 1x HFSB5-2020-173-RTP-AV10
 
 Common:
