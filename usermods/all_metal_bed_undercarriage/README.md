@@ -45,9 +45,9 @@ The underbed assembly is made of 3 pieces of 2020.  The rear piece attaches to t
 
 The rear 2020 piece will need to be drilled with 4 3mm clearance holes to attach it to the MGN12 car.  Use the MGN12_drill_jig.stl to drill these holes, from each side of the 2020.
 
-If you ordered the other 2020 parts without Misumi drilling for you, you will need to use the drill guide. The middle 2020 that is is sistered to the rear 2020 piece needs a 3mm clearance hole vertical hole 10mm from each end, and a 5mm clearance hole horizontally 30mm from each end.   Additionally that piece needs a 5mm horiztonal clearance hole centered on the extrusion.
+If you ordered the other 2020 parts without Misumi drilling for you, you will need to use the drill guide. The middle 2020 that is is sistered to the rear 2020 piece needs a 3mm vertical clearance hole 10mm from each end, and a 5mm horizontal clearance hole 30mm from each end (middle_front_drill_jig.stl).   Additionally that piece needs a 5mm horiztonal clearance hole centered on the extrusion - use middle_jig.stl centered on the extrusion.
 
-The front piece is tapped at the rear and has a 3mm clearance hole drilled vertically 10mm from the front of it.
+The front piece is tapped M5 at the rear and has a 3mm clearance hole drilled vertically 10mm from the front of it (middle_front_drill_jig.stl).
 
 Assemble the middle and front spar 2020 pieces to form a tee.   The two angle brackets that support the forward spar can be any type of angle bracket. Make sure this connection is solid and doesn't twist or flex.   Attach the spar to the tapped hole with a M3x8 BHCS for more rigidity. 
 
