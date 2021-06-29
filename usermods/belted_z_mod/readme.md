@@ -19,7 +19,6 @@ Print the Bottom Frame Bracket 190.stl version if using this on a 190mm^3 Tiny-M
 - LDO NEMA17 42STH20-1004ASH	[PrintedSolid](https://www.printedsolid.com/collections/motors/products/ldo-nema-17-high-temp-voron-ldo-42sth20-1004ashvrn)  other 20 or a 25mm stepper 0.9 or 1.8 deg should work
 ##### Motion	
 - F695-2RS Bearing [Amazon](https://www.amazon.com/F695-2RS-Bearing-5x13x4mm-Miniature-Bearings/dp/B07VMJLXLH)
-- MF105-2RS Bearing			[Amazon](https://www.amazon.com/uxcell-MF105-2RS-Flanged-Bearing-5x10x4mm/dp/B08H27MFWF/ref=sr_1_1_sspa)
 - 1x 5mm shaft	78 mm	- I recommend measuring for yourself	[Amazon](https://www.amazon.com/Sydien-100mm-Solid-Stainless-Airplane/dp/B083LDBTLD)
 - 1x 2GT Belt Loop (6mm wide) 188mm			[AliExpress](https://www.aliexpress.com/item/4000397043382.html)
 - 1x 2GT Open Belt LL-2GT-6 (6mm wide) 10M			[AliExpress](https://www.aliexpress.com/item/32853559638.html)
