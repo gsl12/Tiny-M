@@ -7,7 +7,7 @@ A compact printer with build volume: 150x150x150 mm
 This is a Corona project.  
 It is based on [Voron V0](https://github.com/VoronDesign/Voron-0) .  
 
-Bowden and direct drive extruder using [CroXY's Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) or [Annex Engineering's Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) are now available.  An integrated toolhead similar to Voron's Afterburner is in development.
+Bowden and direct drive extruder using [CroXY's Sailfin](https://github.com/CroXY3D/Sailfin-Extruder), [Annex Engineering's Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) or [Bondtech's LGX Lite](https://www.bondtech.se/product/lgx-lite-extruder-custom/) are now available.  
 
 ### Current Version is V4:  
 

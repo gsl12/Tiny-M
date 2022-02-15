@@ -9,7 +9,7 @@
 - Allows for any size of NEMA17 motor to be used, increasing versatility and mitigates the need for slimline/pancake motors 
 - Motors with higher detent torques can be used to prevent bed drop on power loss (after 4:1 gearing)
 - Gearbox is mounted under the electronics enclosure leading to more space for electronics mounting
-- Compatible with both 190mm³ and 150mm³ builds
+- Compatible with both 190mm³ and 150mm³ builds **MUST USE MODIFIED PARTS BY nehiLo#1732**
 - Shoulder screw compatible upper z idler
 - Arguably less Z artifacting due to no leadscrew
   
