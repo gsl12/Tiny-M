@@ -16,7 +16,7 @@
 ## Bill of Materials
 
 Fasteners
-- M3x4x5 threaded insert x5
+- M3x5x4 mm threaded insert x5
 - M3 washer (1mm) x3
 - M3 shim (0.5mm) x3
 - M3x6 BHCS x4
