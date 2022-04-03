@@ -28,8 +28,8 @@ Common:
 - 3x 16mm long silicone bed mounts [Amazon](https://smile.amazon.com/dp/B07RZKF8MB?psc=1&ref=ppx_yo2_dt_b_product_details)
 - 3x Bed Adjusters (reuse existing) [Ali Experss Style B or D](https://www.aliexpress.com/item/4000421280308.html)
 - 3x 45mm (or 50mm) FHCS screws.  45s protrude only 2.3 mm below the extrusion, so 50 is probably better.
-- 4x M3 washers (at least 6mm OD)
-- 4x M3x8 SHCS
+- 4x M3 washers (at least 6mm OD) - [ALT Ali Bling](https://www.aliexpress.com/item/32968161596.html)
+- 4x M3x8 SHCS (might need M3x10 with the Alt Ali Bling)
 - 11x M5x6 BHCS
 - 1x M5x12 SHCS
 - 1x M5x16 SHCS
