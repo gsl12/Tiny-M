@@ -12,4 +12,5 @@
 * Raspi_Mount.STL : Mount for Raspberry Pi (Xile)
 * Buck_Converter_Mount.STL : Mount for [Buck converter](https://smile.amazon.com/gp/product/B07N3QT628/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1]) for Raspberry Pi 5V (Xile) 
 * Cover_No_Logo.STL : No logo version of screen cover
+* door_handle: A handle for the enclosure door
 
