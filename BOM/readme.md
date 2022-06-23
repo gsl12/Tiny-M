@@ -1,3 +1,5 @@
+The .XLSX bom here is ancient and deprecated.
+
 [Recommended V4 BOM with US, China and some EU sources](https://docs.google.com/spreadsheets/d/e/2PACX-1vQKTQRPsufotex2pgKZs6gdDjUGlbPzPMrz_vgNp8odzEya9Jntykz1X8XHGsFwYE4CXp_6QBfreYBq/pubhtml?gid=1433998558&single=true)
 
 
