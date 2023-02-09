@@ -1,5 +1,7 @@
 # Tiny-M
 
+[V5 beta](https://github.com/gsl12/Tiny-M-V5-beta)
+
 <img src="images/tiny-m_v4.jpg" width="300">
 
 A compact printer with build volume: 150x150x150 mm
