@@ -1,4 +1,9 @@
-# Tiny-M
+# Tiny-M   
+   
+### !!!!!!!!!!!!!! August 2023 !!!!!!!!!!!!!!   
+Due to a serious illness, I cannot continues the project.   
+Unfortunately i cannot tell, when i could work again.   
+
 
 [V5 beta](https://github.com/gsl12/Tiny-M-V5-beta)
 
